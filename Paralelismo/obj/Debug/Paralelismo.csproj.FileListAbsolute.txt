@@ -1,0 +1,6 @@
+C:\Users\Leonardo Silva\Source\Repos\Paralelismo\Paralelismo\bin\Debug\Paralelismo.exe.config
+C:\Users\Leonardo Silva\Source\Repos\Paralelismo\Paralelismo\bin\Debug\Paralelismo.exe
+C:\Users\Leonardo Silva\Source\Repos\Paralelismo\Paralelismo\bin\Debug\Paralelismo.pdb
+C:\Users\Leonardo Silva\Source\Repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Silva\Source\Repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.exe
+C:\Users\Leonardo Silva\Source\Repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.pdb

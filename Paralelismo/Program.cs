@@ -53,9 +53,8 @@ namespace Paralelismo
 
             op.MaxDegreeOfParallelism = threads;
 
-            Parallel.For(0, urls.Count, i =>
-            {
-                DownloadFile(urls[i]);
+            Parallel.ForEach(urls, url =>{
+                DownloadFile(url);
             });
         }
 
